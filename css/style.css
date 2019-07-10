@@ -91,7 +91,9 @@ body {
 
 /*Fin del carrusel*/
 
-
+.container{
+	margin-top: -15rem;
+}
 
 #section1{
 	padding-top:50px;
@@ -105,16 +107,19 @@ body {
 #section2{
 	height:500px;
 	color: #fff; 
-	background-color: #673ab7;
+  background-color: #673ab7;
+  margin-top: 10rem;
 }
 #section3{
 	height:500px;
 	color: #fff; 
-	background-color: #ff9800;
+  background-color: #ff9800;
+  margin-top: 10rem;
 }
 #section4{
 	height:500px;
 	color: #fff; 
-	background-color: #ff9875;
+  background-color: #ff9875;
+  margin-top: 10rem;
 }
 
